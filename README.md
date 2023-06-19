@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="icon.png" />
+</p>
+
+
 ## Khoj...
 ## A Wikipedia Based Search Engine
 
@@ -8,9 +13,6 @@
 - JavaScript
 
 ### [Check out KHOJ?](#) :  A search engine powered by the Wikipedia API.
-<p align="center">
-  <img src="icon.png" />
-</p>
 
 
 ### API used
