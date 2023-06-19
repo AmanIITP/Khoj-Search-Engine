@@ -12,7 +12,7 @@
 - SASS
 - JavaScript
 
-### [Check out KHOJ?](#) :  A search engine powered by the Wikipedia API.
+### [Check out KHOJ?](https://amaniitp.github.io/Khoj-Search-Engine/) :  A search engine powered by the Wikipedia API.
 
 
 ### API used
